@@ -1,0 +1,13 @@
+{
+  "name": "toio-examples",
+  "version": "1.0.0",
+  "description": "toio example codes",
+  "main": "index.js",
+  "repository": "git@github.com:yoshiyukinakai/toio-examples.git",
+  "author": "Yoshiyuki Nakai",
+  "license": "MIT",
+  "dependencies": {
+    "@toio/scanner": "^1.0.0",
+    "keypress": "^0.2.1"
+  }
+}
