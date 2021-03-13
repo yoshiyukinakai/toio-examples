@@ -3,7 +3,7 @@
  * Copyright (c) 2019-present, Sony Interactive Entertainment Inc.
  *
  * This source code is licensed under the MIT license.
- * http://opensource.org/licenses/mit-license.php
+ * https://opensource.org/licenses/mit-license.php
  */
 
 const keypress = require('keypress')
