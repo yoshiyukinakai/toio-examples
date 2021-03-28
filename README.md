@@ -11,9 +11,20 @@ cd toio-examples
 yarn install
 ```
 
-## Example: chase-keyboard-control
+## Examples
+
+### chase-keyboard-control
 ```
 node chase-keyboard-control.js
 ```
 * Combined the two example codes of 'chase' and 'keyboard-control' in https://github.com/toio/toio.js
 * A toio cube chases another cube controlled with a keyboard
+* Video: https://www.youtube.com/watch?v=y5AMDuXyUGQ
+
+### runaway
+```
+node runaway.js
+```
+* Modified several lines of example 'chase' in https://github.com/toio/toio.js
+* A toio cube runs away from another cube
+* Video: https://www.youtube.com/watch?v=EOJfBHP42Fg
