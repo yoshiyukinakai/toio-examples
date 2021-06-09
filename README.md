@@ -21,6 +21,14 @@ node chase-keyboard-control.js
 * A toio cube chases another cube controlled with a keyboard
 * Video: https://www.youtube.com/watch?v=y5AMDuXyUGQ
 
+### chase-keyboard-control-3cubes
+```
+node chase-keyboard-control-3cubes.js
+```
+* Added the third cube to example 'chase-keyboard-control'
+* The first cube is controlled with a keyboard, and the following cubes chase the cube in front of them
+* Video: https://www.youtube.com/watch?v=2JyzkidPynM
+
 ### runaway
 ```
 node runaway.js
